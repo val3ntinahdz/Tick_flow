@@ -117,6 +117,6 @@ filtersDiv.addEventListener("click", (event) => {
 })
 
 
-const completedTasksHTML = document.querySelector(".completed-tasks");
-completedTasksHTML.innerText = `TASKS COMPLETADOS: ${ todoList.countCompletedTasks() }`;
+// const completedTasksHTML = document.querySelector(".completed-tasks");
+// completedTasksHTML.innerText = `TASKS COMPLETADOS: ${ todoList.countCompletedTasks() }`;
 
